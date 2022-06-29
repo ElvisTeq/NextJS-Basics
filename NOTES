@@ -5,4 +5,17 @@
 - npx create-next-app
   => Run on folder location to create
 
+**\*** git push origin main **\***
+
 ///////////////////////////////////////////////////////////////////////////////////////////////
+
+## 2 Adding first Pages
+
+- Created
+  => "Index.js" ("our-domain.com/") main page
+  => "news.js" ("our-domain.com/nwes")
+
+--------------------------------------------------------- npm run dev
+Running our page
+
+**\*** Next.js Automatically connects our pages component together **\***
