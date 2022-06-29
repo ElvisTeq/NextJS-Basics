@@ -19,3 +19,15 @@
 Running our page
 
 **\*** Next.js Automatically connects our pages component together **\***
+
+///////////////////////////////////////////////////////////////////////////////////////////////
+
+## 3 Adding nesting paths/pages
+
+- "news.js"
+  => Renamed to "index.js" moved to "news" folder
+  => "index.js" automatically gets folders name "news" in URL
+  => "./pages/news/index.js" ("our-domain.com/news")
+
+- "something-important.js"
+  => Created in "./pages/news/something-important.js" ("our-domain.com/news/something-important")
