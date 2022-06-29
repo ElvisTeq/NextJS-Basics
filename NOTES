@@ -49,3 +49,12 @@ Running our page
 ---------------------------------------------------- import { useRouter } from "next/router";
 const router = useRouter();
 router.query.newsId;
+
+///////////////////////////////////////////////////////////////////////////////////////////////
+
+## 6 Linking Between Pages
+
+- "index.js"
+  => <Link href=''> to link/send user to href on click
+
+---------------------------------------------------- import Link from "next/link"
